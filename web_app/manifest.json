@@ -1,0 +1,36 @@
+{
+  "name": "ZenJarvis",
+  "short_name": "ZenJarvis",
+  "description": "Медитация на 5 минут, кастомная сессия 1–30 минут и NSDR-восстановление на 15 минут с голосовыми подсказками, музыкой и звуком пробуждения.",
+  "lang": "ru",
+  "dir": "ltr",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#081311",
+  "theme_color": "#081311",
+  "categories": ["health", "lifestyle", "music"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
